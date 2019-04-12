@@ -1,0 +1,23 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulfranangarita/calculadora.git"
+  },
+  "author": "wap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wulfranangarita/calculadora/issues"
+  },
+  "homepage": "https://github.com/wulfranangarita/calculadora#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
+}
