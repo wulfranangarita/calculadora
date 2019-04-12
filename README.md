@@ -1,3 +1,8 @@
 # calculadora
+Este es un ejericio de angular
 
-ñkmln
+##Instalación del proyecto
+```
+
+npm install
+```
